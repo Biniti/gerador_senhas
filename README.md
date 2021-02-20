@@ -1,3 +1,8 @@
+# Sobre 
+
+O projeto é um gerador de senhas, para testar clique [Aqui](https://pw-nine-neon.vercel.app/)
+
+
 # Pw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
